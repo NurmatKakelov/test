@@ -1,0 +1,26 @@
+.house {
+  text-align: center;
+  background-color: antiquewhite;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+  margin: top 25px;
+  padding: 25px 50px;
+}
+.info {
+  background-image: url(../backgroun.jpg);
+}
+
+ul li {
+  display: inline-block;
+}
+
+li {
+  margin: 10px;
+  padding: 10px;
+}
+
+div {
+  height: 600px;
+  width: 100%;
+}
